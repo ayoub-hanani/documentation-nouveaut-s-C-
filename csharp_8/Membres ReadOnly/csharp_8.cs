@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace csharp_8.Membres_ReadOnly
 {
-    internal class csharp_8_1
+    internal class csharp_8
     {
         public struct Point
         {

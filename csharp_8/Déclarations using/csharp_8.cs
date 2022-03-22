@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace csharp_8.Déclarations_using
 {
-    internal class csharp_8_3
+    internal class csharp_8
     {
         static int WriteLinesToFile(IEnumerable<string> lines)
         {

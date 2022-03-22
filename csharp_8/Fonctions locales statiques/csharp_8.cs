@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace csharp_8.Fonctions_locales_statiques
 {
-    internal class csharp_8_3
+    internal class csharp_8
     {
         int M()
         {

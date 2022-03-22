@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace csharp_8.Modèles_de_propriétés
 {
-    internal class csharp_8_3
+    internal class csharp_8
     {
         public static decimal ComputeSalesTax(Address location, decimal salePrice) =>
         location switch

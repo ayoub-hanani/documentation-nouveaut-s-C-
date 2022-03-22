@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace csharp_8.Expressions_switch
 {
-    internal class csharp_8_2
+    internal class csharp_8
     {
         public enum Rainbow
         {

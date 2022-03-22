@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace csharp_8.Modèles_de_tuples
 {
-    internal class csharp_8_2
+    internal class csharp_8
     {
         public static string RockPaperScissors(string first, string second)
                 => (first, second) switch
